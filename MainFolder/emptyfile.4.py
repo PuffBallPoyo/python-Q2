@@ -1,0 +1,1 @@
+var1, var2 = [int(x) for x in input("Enter two numbers here: ").split()]
