@@ -6,6 +6,6 @@ def damage(x,y) :
 #i = int(input('Nombre de fois à afficher : '))
 
 print('before call')
-x = damage(10,1)
-print(x*x*x)
+res = damage(int(input ("x : " )),float(input("y : ")))
+print(res*res*res)
 print('after call')
