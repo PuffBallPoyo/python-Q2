@@ -1,4 +1,7 @@
+#Écrivez un script qui génère aléatoirement des phrases en utilisant des listes de mots prédéfinis.
+
 import random
+
 sujet = [ 'mon chat', 'le pape', 'Johnny', 'Eden Hazard', 'un serpent', 'un magicien', 'mon voisin']
 verbe= ['chanteront', 'joueront', 'danseront', 'travailleront', 'feront un marathon']
 temps = ['Aujourd’hui', 'Dans cent ans', 'Demain', 'Quand les poules auront des dents']

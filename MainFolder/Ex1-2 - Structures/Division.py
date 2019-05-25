@@ -1,3 +1,6 @@
+#Écrivez le script qui, après avoir demandé et obtenu deux nombres entiers, numérateur
+#et dénominateur d'une fraction, affiche le résultat.
+
 num = int(input("Tape le numerateur : "))
 denom = int(input("Tape le denominateur : "))
 
