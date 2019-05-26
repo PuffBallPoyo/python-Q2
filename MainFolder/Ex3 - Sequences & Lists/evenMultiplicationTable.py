@@ -1,3 +1,6 @@
+#Écrivez le script qui, après avoir demandé et obtenu deux nombres, affiche les
+#tables de multiplication des nombres pairs se trouvant entre ces deux nombres sans utiliser while.
+
 nb1 = int(input("Tapez deux nombres pour en afficher les table de multiplication des nombres pairs:"))
 nb2 = int(input())
 

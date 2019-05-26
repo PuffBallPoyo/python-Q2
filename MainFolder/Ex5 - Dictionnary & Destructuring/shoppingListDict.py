@@ -1,4 +1,4 @@
-#Script qui permet de faire une liste de courses grâce aux entrées de l'utilisateur
+#Script qui génère une liste de courses mais, cette fois-ci, avec un dictionnaire
 
 liste_courses = {}
 

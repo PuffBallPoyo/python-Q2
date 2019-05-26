@@ -14,3 +14,5 @@ print(random.choice(sujet) ,end=" ")
 print(random.choice(verbe) ,end=" avec ")
 print(random.choice(objet) ,end=" ")
 print(random.choice(lieu) ,end=".")
+
+#end permet de remplacer le retour à la ligne d'un print par un caractère ou string de son choix
