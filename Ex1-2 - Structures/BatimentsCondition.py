@@ -1,20 +1,6 @@
-#Dans le cadre d’un jeu de stratégie, on désire savoir s’il est possible de construire des
-#nouveaux bâtiments. Connaissant le nombre de bâtiments à construire nb_batiments,
-#les ressources nécessaires à la construction d’un bâtiment ressources_necessaires et
-#les ressources disponibles ressources_disponibles, écrivez les instructions
-#(1 instruction par variable) permettant de déclarer et d’initialiser les variables
-#suivantes :
-
-#• nb_batiments_valide, qui indique si le nombre de bâtiments est compris entre 1 et
-#15 ;
-#• ressources_insuffisantes, qui indique si les ressources disponibles ne sont pas
-#suffisantes à la construction des bâtiments ;
-#• peut_construire, qui indique si la construction est réalisable, c’est-à-dire que le
-#nombres de bâtiments à construire est valide et que les ressources sont suffisantes.
-
-#Écrivez le script qui permet de demander et de récupérer les valeurs des trois variables
+#Script qui permet de demander et de récupérer les valeurs des trois variables
 #utilisées ci-dessus, et ensuite de vérifier si les bâtiments peuvent être construits en
-#réutilisant les différentes instructions que vous avez écrites ci-avant.
+#utilisant différentes conditions.
 
 nb_batiments = int(input("Nombre de batiments : "))
 ressources_necessaires = int(input("Nombre de ressources necessaires : "))
