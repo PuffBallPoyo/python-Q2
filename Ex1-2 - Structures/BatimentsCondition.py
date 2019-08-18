@@ -17,7 +17,7 @@ if ressources_insuffisantes == True :
 elif ressources_insuffisantes == False:
     print("Vous avez assez de ressources")
 
-if peut_construire == True :
+if peut_construire == True : 
     print("Vous pouvez construire les bâtiments ^^")
 elif peut_construire == False :
     print("On peut pas construire les bâtiments D:")
